@@ -1,0 +1,17 @@
+{
+    "name": "mathe/projeto1",
+    "autoload": {
+        "psr-4": {
+            "Mathe\\Projeto1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Chiodi",
+            "email": "matheuschiodi20@gmail.com"
+        }
+    ],
+    "require": {
+        "wead/digital-cep": "^1.0"
+    }
+}
